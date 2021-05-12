@@ -1,6 +1,6 @@
 # hello-imdb
 
-An example of Hamming codes usage for multi-valued categorical variables
+An example of Hamming codes usage for mixed numerical and multi-valued categorical data
 
 https://nbviewer.jupyter.org/github/aliakseis/hello-imdb/blob/master/hello-imdb.ipynb
 
